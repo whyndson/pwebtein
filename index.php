@@ -5,6 +5,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
+	<input type="text" name="nome" placeholder="Nome"><br><br>
 	<input type="number" name="idade" placeholder="Idade"><br>
 	<input type="text" name="peso" placeholder="Peso"><br>
 	<input type="text" name="altura" placeholder="Altura"><br>
@@ -12,8 +13,11 @@
 	<p>Facilidade com questões de lógica</p>
 	<input type="checkbox" name="checkbox-baixo"> Baixo<br>
 	<input type="checkbox" name="checkbox-medio"> Médio<br>
-	<input type="checkbox" name="checkbox-alto"> Alto<br>
-	<p>Frequência cardíaca</p><br>
+	<input type= "checkbox" name="checkbox-alto"> Alto<br>
+	<p>Frequência cardíaca</p>
 	<input type="text" name="frequencia-cardiaca" placeholder="Frequência cardíaca">
-	</body>
-	</html>
+	<br>
+	<br>
+	<a href="../view/tela1.php">Inicar teste</a>
+</body>
+</html>
